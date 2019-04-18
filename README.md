@@ -83,7 +83,7 @@ Follow the instructions to install the image to eMMC Card - https://wiki.radxa.c
 
     $ sudo resize2fs /dev/nvme0n1p1
 
->Make sure NvME has no errors
+>Make sure NVMe drive has no errors after resize
 
     $ sudo e2fsck -f /dev/nvme0n1p1
 
