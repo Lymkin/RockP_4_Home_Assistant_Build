@@ -192,9 +192,9 @@ Follow the instructions to install the image to eMMC Card - https://wiki.radxa.c
 	
 	$ sudo apt-get install docker-ce
 	
-	$ sudo apt-cache madison docker-ce
+	$ sudo apt-cache madison docker-ce  <----- Potentially Optional (I did not do this)
 	
-	$ sudo apt-get install docker-ce=18.06.3~ce~3-0~ubuntu
+	$ sudo apt-get install docker-ce=18.06.3~ce~3-0~ubuntu  <----- Potentially Optional (I did not do this)
 
 <h2>6) Install Home Assistant on Docker</h2>
 
