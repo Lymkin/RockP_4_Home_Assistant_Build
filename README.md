@@ -91,7 +91,7 @@ Follow the instructions to install the image to eMMC Card - https://wiki.radxa.c
 
     $ sudo nano /boot/extlinux/extlinux.conf
 		change - root=PARTUUID=b921b045-1d
-	    	to - root=/dev/nvme0n1p1
+	    	    to - root=/dev/nvme0n1p1
 
 >Reboot
 
