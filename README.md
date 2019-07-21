@@ -204,11 +204,11 @@ Follow the instructions to install the image to eMMC Card - https://wiki.radxa.c
 
 	$ apt-get install jq avahi-daemon avahi-discover avahi-utils libnss-mdns mdns-scan
 
-	$ wget https://raw.githubusercontent.com/home-assistant/hassio-build/master/install/hassio_install
+	$ wget https://raw.githubusercontent.com/home-assistant/hassio-installer/master/hassio_install.sh
 
-	$ chmod +x ./hassio_install
+	$ chmod +x ./hassio_install.sh
 
-	$ ./hassio_install -m qemuarm-64
+	$ ./hassio_install.sh -m qemuarm-64
 
 	$ exit
 
