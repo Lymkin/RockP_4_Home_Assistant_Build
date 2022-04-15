@@ -1,3 +1,7 @@
+<h1> These instructions are out of date......Move along! <h1>
+
+
+
 <h1> Install Ubuntu, Docker and Home Assistant on Rock Pi 4b </h1>
 
 <h2>1) Download and Install Ubuntu Image on eMMC Card </h2>
